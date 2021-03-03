@@ -1,0 +1,364 @@
+2019-11-18 19:14:49,806:DEBUG:The alarm time is:None
+2019-11-18 19:14:49,811:INFO:127.0.0.1 - - [18/Nov/2019 19:14:49] "GET / HTTP/1.1" 200 -
+2019-11-18 19:14:58,016:DEBUG:The alarm time is:2019-12-12T12:12
+2019-11-18 19:14:58,022:DEBUG:The ecpoch time is:1576152720.0
+2019-11-18 19:14:58,022:DEBUG:The courrent time is1574104498.0223281
+2019-11-18 19:14:58,022:DEBUG:The created delay is2048221.9776718616
+2019-11-18 19:14:58,023:DEBUG:The alarms is set for next day
+2019-11-18 19:14:58,023:INFO:127.0.0.1 - - [18/Nov/2019 19:14:58] "GET /?alarm=2019-12-12T12%3A12&name=caca HTTP/1.1" 200 -
+2019-11-18 19:16:06,203:DEBUG:The alarm time is:None
+2019-11-18 19:16:06,207:INFO:127.0.0.1 - - [18/Nov/2019 19:16:06] "GET / HTTP/1.1" 200 -
+2019-11-18 19:16:21,542:DEBUG:The alarm time is:None
+2019-11-18 19:16:21,542:INFO:127.0.0.1 - - [18/Nov/2019 19:16:21] "GET / HTTP/1.1" 200 -
+2019-11-18 19:16:37,792:DEBUG:The alarm time is:None
+2019-11-18 19:16:37,793:INFO:127.0.0.1 - - [18/Nov/2019 19:16:37] "GET / HTTP/1.1" 200 -
+2019-11-18 19:16:43,654:DEBUG:The alarm time is:None
+2019-11-18 19:16:43,656:INFO:127.0.0.1 - - [18/Nov/2019 19:16:43] "GET / HTTP/1.1" 200 -
+2019-11-18 19:16:58,731:DEBUG:The alarm time is:None
+2019-11-18 19:16:58,732:INFO:127.0.0.1 - - [18/Nov/2019 19:16:58] "GET / HTTP/1.1" 200 -
+2019-11-18 19:19:56,871:DEBUG:The alarm time is:None
+2019-11-18 19:19:56,886:INFO:127.0.0.1 - - [18/Nov/2019 19:19:56] "GET / HTTP/1.1" 500 -
+2019-11-18 19:19:56,920:INFO:127.0.0.1 - - [18/Nov/2019 19:19:56] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:19:56,922:INFO:127.0.0.1 - - [18/Nov/2019 19:19:56] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:19:56,922:INFO:127.0.0.1 - - [18/Nov/2019 19:19:56] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:19:57,067:INFO:127.0.0.1 - - [18/Nov/2019 19:19:57] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:19:57,095:INFO:127.0.0.1 - - [18/Nov/2019 19:19:57] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:19:57,142:INFO:127.0.0.1 - - [18/Nov/2019 19:19:57] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:21:41,091:DEBUG:The alarm time is:None
+2019-11-18 19:21:41,096:INFO:127.0.0.1 - - [18/Nov/2019 19:21:41] "GET / HTTP/1.1" 200 -
+2019-11-18 19:22:47,304:DEBUG:The alarm time is:2019-12-12T12:12
+2019-11-18 19:22:47,306:DEBUG:The ecpoch time is:1576152720.0
+2019-11-18 19:22:47,306:DEBUG:The courrent time is1574104967.306207
+2019-11-18 19:22:47,306:DEBUG:The created delay is2047752.6937930584
+2019-11-18 19:22:47,306:DEBUG:The alarms is set for next day
+2019-11-18 19:22:47,309:INFO:127.0.0.1 - - [18/Nov/2019 19:22:47] "GET /?alarm=2019-12-12T12%3A12&name=caca HTTP/1.1" 200 -
+2019-11-18 19:22:53,571:DEBUG:The alarm time is:2019-12-12T12:12
+2019-11-18 19:22:53,571:DEBUG:The ecpoch time is:1576152720.0
+2019-11-18 19:22:53,572:DEBUG:The courrent time is1574104973.5718489
+2019-11-18 19:22:53,572:DEBUG:The created delay is2047746.4281511307
+2019-11-18 19:22:53,572:DEBUG:The alarms is set for next day
+2019-11-18 19:22:53,572:INFO:127.0.0.1 - - [18/Nov/2019 19:22:53] "GET /?alarm=2019-12-12T12%3A12&name=as HTTP/1.1" 200 -
+2019-11-18 19:23:00,257:INFO:127.0.0.1 - - [18/Nov/2019 19:23:00] "GET /alarms HTTP/1.1" 200 -
+2019-11-18 19:38:47,958:DEBUG:The alarm time is:None
+2019-11-18 19:38:47,964:INFO:127.0.0.1 - - [18/Nov/2019 19:38:47] "GET / HTTP/1.1" 200 -
+2019-11-18 19:39:03,041:DEBUG:The alarm time is:None
+2019-11-18 19:39:03,042:INFO:127.0.0.1 - - [18/Nov/2019 19:39:03] "GET / HTTP/1.1" 200 -
+2019-11-18 19:39:18,124:DEBUG:The alarm time is:None
+2019-11-18 19:39:18,125:INFO:127.0.0.1 - - [18/Nov/2019 19:39:18] "GET / HTTP/1.1" 200 -
+2019-11-18 19:39:33,200:DEBUG:The alarm time is:None
+2019-11-18 19:39:33,201:INFO:127.0.0.1 - - [18/Nov/2019 19:39:33] "GET / HTTP/1.1" 200 -
+2019-11-18 19:39:48,276:DEBUG:The alarm time is:None
+2019-11-18 19:39:48,277:INFO:127.0.0.1 - - [18/Nov/2019 19:39:48] "GET / HTTP/1.1" 200 -
+2019-11-18 19:40:03,353:DEBUG:The alarm time is:None
+2019-11-18 19:40:03,354:INFO:127.0.0.1 - - [18/Nov/2019 19:40:03] "GET / HTTP/1.1" 200 -
+2019-11-18 19:40:18,431:DEBUG:The alarm time is:None
+2019-11-18 19:40:18,432:INFO:127.0.0.1 - - [18/Nov/2019 19:40:18] "GET / HTTP/1.1" 200 -
+2019-11-18 19:40:33,501:DEBUG:The alarm time is:None
+2019-11-18 19:40:33,501:INFO:127.0.0.1 - - [18/Nov/2019 19:40:33] "GET / HTTP/1.1" 200 -
+2019-11-18 19:40:48,571:DEBUG:The alarm time is:None
+2019-11-18 19:40:48,572:INFO:127.0.0.1 - - [18/Nov/2019 19:40:48] "GET / HTTP/1.1" 200 -
+2019-11-18 19:41:03,646:DEBUG:The alarm time is:None
+2019-11-18 19:41:03,647:INFO:127.0.0.1 - - [18/Nov/2019 19:41:03] "GET / HTTP/1.1" 200 -
+2019-11-18 19:41:18,747:DEBUG:The alarm time is:None
+2019-11-18 19:41:18,748:INFO:127.0.0.1 - - [18/Nov/2019 19:41:18] "GET / HTTP/1.1" 200 -
+2019-11-18 19:41:34,712:DEBUG:The alarm time is:None
+2019-11-18 19:41:34,713:INFO:127.0.0.1 - - [18/Nov/2019 19:41:34] "GET / HTTP/1.1" 200 -
+2019-11-18 19:42:18,435:DEBUG:The alarm time is:None
+2019-11-18 19:42:18,439:INFO:127.0.0.1 - - [18/Nov/2019 19:42:18] "GET / HTTP/1.1" 200 -
+2019-11-18 19:42:27,273:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:42:27,278:DEBUG:The ecpoch time is:1576145400.0
+2019-11-18 19:42:27,279:DEBUG:The courrent time is1574106147.278239
+2019-11-18 19:42:27,279:DEBUG:The created delay is2039252.7217609882
+2019-11-18 19:42:27,279:DEBUG:The alarms is set for next day
+2019-11-18 19:42:27,279:INFO:127.0.0.1 - - [18/Nov/2019 19:42:27] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 200 -
+2019-11-18 19:42:35,430:DEBUG:The alarm time is:2019-12-13T12:15
+2019-11-18 19:42:35,431:DEBUG:The ecpoch time is:1576239300.0
+2019-11-18 19:42:35,431:DEBUG:The courrent time is1574106155.4312909
+2019-11-18 19:42:35,431:DEBUG:The created delay is2133144.568709135
+2019-11-18 19:42:35,431:DEBUG:The alarms is set for next day
+2019-11-18 19:42:35,432:INFO:127.0.0.1 - - [18/Nov/2019 19:42:35] "GET /?alarm=2019-12-13T12%3A15&name=b HTTP/1.1" 200 -
+2019-11-18 19:42:39,119:INFO:127.0.0.1 - - [18/Nov/2019 19:42:39] "GET /alarms HTTP/1.1" 200 -
+2019-11-18 19:43:22,919:DEBUG:The alarm time is:None
+2019-11-18 19:43:22,944:INFO:127.0.0.1 - - [18/Nov/2019 19:43:22] "GET / HTTP/1.1" 500 -
+2019-11-18 19:43:23,006:INFO:127.0.0.1 - - [18/Nov/2019 19:43:23] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:43:23,009:INFO:127.0.0.1 - - [18/Nov/2019 19:43:23] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:43:23,010:INFO:127.0.0.1 - - [18/Nov/2019 19:43:23] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:43:23,155:INFO:127.0.0.1 - - [18/Nov/2019 19:43:23] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:43:23,174:INFO:127.0.0.1 - - [18/Nov/2019 19:43:23] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:43:23,225:INFO:127.0.0.1 - - [18/Nov/2019 19:43:23] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:44:03,825:DEBUG:The alarm time is:None
+2019-11-18 19:44:03,836:INFO:127.0.0.1 - - [18/Nov/2019 19:44:03] "GET / HTTP/1.1" 500 -
+2019-11-18 19:44:03,859:INFO:127.0.0.1 - - [18/Nov/2019 19:44:03] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:44:03,863:INFO:127.0.0.1 - - [18/Nov/2019 19:44:03] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:44:03,863:INFO:127.0.0.1 - - [18/Nov/2019 19:44:03] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:44:03,924:INFO:127.0.0.1 - - [18/Nov/2019 19:44:03] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:44:03,928:INFO:127.0.0.1 - - [18/Nov/2019 19:44:03] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:44:03,949:INFO:127.0.0.1 - - [18/Nov/2019 19:44:03] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:44:04,813:DEBUG:The alarm time is:None
+2019-11-18 19:44:04,822:INFO:127.0.0.1 - - [18/Nov/2019 19:44:04] "GET / HTTP/1.1" 500 -
+2019-11-18 19:44:04,851:INFO:127.0.0.1 - - [18/Nov/2019 19:44:04] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:44:04,853:INFO:127.0.0.1 - - [18/Nov/2019 19:44:04] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:44:04,853:INFO:127.0.0.1 - - [18/Nov/2019 19:44:04] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:44:04,910:INFO:127.0.0.1 - - [18/Nov/2019 19:44:04] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:44:04,929:INFO:127.0.0.1 - - [18/Nov/2019 19:44:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:44:04,961:INFO:127.0.0.1 - - [18/Nov/2019 19:44:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:44:58,736:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:44:58,748:INFO:127.0.0.1 - - [18/Nov/2019 19:44:58] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:44:58,774:INFO:127.0.0.1 - - [18/Nov/2019 19:44:58] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:44:58,775:INFO:127.0.0.1 - - [18/Nov/2019 19:44:58] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:44:58,777:INFO:127.0.0.1 - - [18/Nov/2019 19:44:58] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:44:58,829:INFO:127.0.0.1 - - [18/Nov/2019 19:44:58] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:44:58,844:INFO:127.0.0.1 - - [18/Nov/2019 19:44:58] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:44:59,420:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:44:59,428:INFO:127.0.0.1 - - [18/Nov/2019 19:44:59] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:44:59,456:INFO:127.0.0.1 - - [18/Nov/2019 19:44:59] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:44:59,458:INFO:127.0.0.1 - - [18/Nov/2019 19:44:59] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:44:59,459:INFO:127.0.0.1 - - [18/Nov/2019 19:44:59] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:44:59,506:INFO:127.0.0.1 - - [18/Nov/2019 19:44:59] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:44:59,509:INFO:127.0.0.1 - - [18/Nov/2019 19:44:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:44:59,545:INFO:127.0.0.1 - - [18/Nov/2019 19:44:59] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:25,678:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:45:25,687:INFO:127.0.0.1 - - [18/Nov/2019 19:45:25] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:45:25,729:INFO:127.0.0.1 - - [18/Nov/2019 19:45:25] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:45:25,730:INFO:127.0.0.1 - - [18/Nov/2019 19:45:25] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:45:25,731:INFO:127.0.0.1 - - [18/Nov/2019 19:45:25] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:45:25,875:INFO:127.0.0.1 - - [18/Nov/2019 19:45:25] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:45:25,896:INFO:127.0.0.1 - - [18/Nov/2019 19:45:25] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:25,943:INFO:127.0.0.1 - - [18/Nov/2019 19:45:25] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:47,010:INFO: * Detected change in '/Users/miti/Documents/EXETER/Programming/Coursework 2/flask test 4.py', reloading
+2019-11-18 19:45:48,508:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:45:48,518:INFO:127.0.0.1 - - [18/Nov/2019 19:45:48] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:45:48,543:INFO:127.0.0.1 - - [18/Nov/2019 19:45:48] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:45:48,545:INFO:127.0.0.1 - - [18/Nov/2019 19:45:48] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:45:48,546:INFO:127.0.0.1 - - [18/Nov/2019 19:45:48] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:45:48,605:INFO:127.0.0.1 - - [18/Nov/2019 19:45:48] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:45:48,626:INFO:127.0.0.1 - - [18/Nov/2019 19:45:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:48,653:INFO:127.0.0.1 - - [18/Nov/2019 19:45:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:49,238:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:45:49,245:INFO:127.0.0.1 - - [18/Nov/2019 19:45:49] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:45:49,273:INFO:127.0.0.1 - - [18/Nov/2019 19:45:49] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:45:49,274:INFO:127.0.0.1 - - [18/Nov/2019 19:45:49] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:45:49,274:INFO:127.0.0.1 - - [18/Nov/2019 19:45:49] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:45:49,324:INFO:127.0.0.1 - - [18/Nov/2019 19:45:49] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:45:49,343:INFO:127.0.0.1 - - [18/Nov/2019 19:45:49] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:49,372:INFO:127.0.0.1 - - [18/Nov/2019 19:45:49] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:54,931:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:45:54,940:INFO:127.0.0.1 - - [18/Nov/2019 19:45:54] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:45:54,966:INFO:127.0.0.1 - - [18/Nov/2019 19:45:54] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:45:54,970:INFO:127.0.0.1 - - [18/Nov/2019 19:45:54] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:45:54,970:INFO:127.0.0.1 - - [18/Nov/2019 19:45:54] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:45:55,018:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:45:55,033:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:55,055:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:55,433:INFO: * Detected change in '/Users/miti/Documents/EXETER/Programming/Coursework 2/flask test 4.py', reloading
+2019-11-18 19:45:55,718:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:45:55,729:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:45:55,760:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:45:55,761:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:45:55,762:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:45:55,809:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:45:55,824:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:45:55,843:INFO:127.0.0.1 - - [18/Nov/2019 19:45:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:46:08,908:INFO: * Detected change in '/Users/miti/Documents/EXETER/Programming/Coursework 2/flask test 4.py', reloading
+2019-11-18 19:46:10,134:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:46:10,143:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:46:10,163:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:46:10,166:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:46:10,167:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:46:10,218:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:46:10,238:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:46:10,261:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:46:10,693:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:46:10,703:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:46:10,726:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:46:10,727:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:46:10,728:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:46:10,771:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:46:10,782:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:46:10,804:INFO:127.0.0.1 - - [18/Nov/2019 19:46:10] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:47:02,416:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:47:02,426:INFO:127.0.0.1 - - [18/Nov/2019 19:47:02] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:47:02,463:INFO:127.0.0.1 - - [18/Nov/2019 19:47:02] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:47:02,471:INFO:127.0.0.1 - - [18/Nov/2019 19:47:02] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:47:02,474:INFO:127.0.0.1 - - [18/Nov/2019 19:47:02] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:47:02,611:INFO:127.0.0.1 - - [18/Nov/2019 19:47:02] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:47:02,635:INFO:127.0.0.1 - - [18/Nov/2019 19:47:02] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:47:02,686:INFO:127.0.0.1 - - [18/Nov/2019 19:47:02] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:47:05,158:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:47:05,168:INFO:127.0.0.1 - - [18/Nov/2019 19:47:05] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:47:05,191:INFO:127.0.0.1 - - [18/Nov/2019 19:47:05] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:47:05,192:INFO:127.0.0.1 - - [18/Nov/2019 19:47:05] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:47:05,192:INFO:127.0.0.1 - - [18/Nov/2019 19:47:05] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:47:05,254:INFO:127.0.0.1 - - [18/Nov/2019 19:47:05] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:47:05,258:INFO:127.0.0.1 - - [18/Nov/2019 19:47:05] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:47:05,285:INFO:127.0.0.1 - - [18/Nov/2019 19:47:05] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:47:36,513:INFO: * Detected change in '/Users/miti/Documents/EXETER/Programming/Coursework 2/flask test 4.py', reloading
+2019-11-18 19:49:03,094:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:49:03,108:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:49:03,135:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:49:03,139:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:49:03,139:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:49:03,199:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:03,229:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:49:03,251:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:03,949:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:49:03,958:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:49:03,990:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:49:03,992:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:49:03,992:INFO:127.0.0.1 - - [18/Nov/2019 19:49:03] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:49:04,039:INFO:127.0.0.1 - - [18/Nov/2019 19:49:04] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:49:04,055:INFO:127.0.0.1 - - [18/Nov/2019 19:49:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:04,091:INFO:127.0.0.1 - - [18/Nov/2019 19:49:04] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:28,601:INFO: * Detected change in '/Users/miti/Documents/EXETER/Programming/Coursework 2/flask test 4.py', reloading
+2019-11-18 19:49:28,936:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:49:28,946:INFO:127.0.0.1 - - [18/Nov/2019 19:49:28] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:49:28,965:INFO:127.0.0.1 - - [18/Nov/2019 19:49:28] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:49:28,966:INFO:127.0.0.1 - - [18/Nov/2019 19:49:28] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:49:28,967:INFO:127.0.0.1 - - [18/Nov/2019 19:49:28] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:49:29,018:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:49:29,035:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:29,056:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:29,569:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:49:29,578:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:49:29,605:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:49:29,606:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:49:29,607:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:49:29,660:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:49:29,675:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:29,711:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:29,728:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:49:29,736:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:49:29,757:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:49:29,759:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:49:29,759:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:49:29,804:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:49:29,818:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:29,839:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:29,888:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:49:29,896:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:49:29,919:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:49:29,920:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:49:29,922:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:49:29,966:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:49:29,978:INFO:127.0.0.1 - - [18/Nov/2019 19:49:29] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:49:30,000:INFO:127.0.0.1 - - [18/Nov/2019 19:49:30] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:50:25,007:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:50:25,021:INFO:127.0.0.1 - - [18/Nov/2019 19:50:25] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 500 -
+2019-11-18 19:50:25,045:INFO:127.0.0.1 - - [18/Nov/2019 19:50:25] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:50:25,048:INFO:127.0.0.1 - - [18/Nov/2019 19:50:25] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:50:25,048:INFO:127.0.0.1 - - [18/Nov/2019 19:50:25] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:50:25,101:INFO:127.0.0.1 - - [18/Nov/2019 19:50:25] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:50:25,120:INFO:127.0.0.1 - - [18/Nov/2019 19:50:25] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:50:25,150:INFO:127.0.0.1 - - [18/Nov/2019 19:50:25] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:50:52,457:DEBUG:The alarm time is:2019-12-12T10:10
+2019-11-18 19:50:52,460:DEBUG:The ecpoch time is:1576145400.0
+2019-11-18 19:50:52,460:DEBUG:The courrent time is1574106652.4605389
+2019-11-18 19:50:52,460:DEBUG:The created delay is2038747.5394611359
+2019-11-18 19:50:52,460:DEBUG:The alarms is set for next day
+2019-11-18 19:50:52,465:INFO:127.0.0.1 - - [18/Nov/2019 19:50:52] "GET /?alarm=2019-12-12T10%3A10&name=a HTTP/1.1" 200 -
+2019-11-18 19:51:01,557:DEBUG:The alarm time is:2019-12-12T12:12
+2019-11-18 19:51:01,557:DEBUG:The ecpoch time is:1576152720.0
+2019-11-18 19:51:01,557:DEBUG:The courrent time is1574106661.557346
+2019-11-18 19:51:01,557:DEBUG:The created delay is2046058.4426538944
+2019-11-18 19:51:01,557:DEBUG:The alarms is set for next day
+2019-11-18 19:51:01,558:INFO:127.0.0.1 - - [18/Nov/2019 19:51:01] "GET /?alarm=2019-12-12T12%3A12&name=caca HTTP/1.1" 200 -
+2019-11-18 19:51:15,251:DEBUG:The alarm time is:2019-12-12T12:12
+2019-11-18 19:51:15,251:DEBUG:The ecpoch time is:1576152720.0
+2019-11-18 19:51:15,252:DEBUG:The courrent time is1574106675.2518961
+2019-11-18 19:51:15,252:DEBUG:The created delay is2046044.748103857
+2019-11-18 19:51:15,252:DEBUG:The alarms is set for next day
+2019-11-18 19:51:15,253:INFO:127.0.0.1 - - [18/Nov/2019 19:51:15] "GET /?alarm=2019-12-12T12%3A12&name=lol HTTP/1.1" 200 -
+2019-11-18 19:51:47,719:DEBUG:The alarm time is:None
+2019-11-18 19:51:47,733:INFO:127.0.0.1 - - [18/Nov/2019 19:51:47] "GET / HTTP/1.1" 500 -
+2019-11-18 19:51:47,780:INFO:127.0.0.1 - - [18/Nov/2019 19:51:47] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:51:47,780:INFO:127.0.0.1 - - [18/Nov/2019 19:51:47] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:51:47,781:INFO:127.0.0.1 - - [18/Nov/2019 19:51:47] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:51:47,923:INFO:127.0.0.1 - - [18/Nov/2019 19:51:47] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:51:47,943:INFO:127.0.0.1 - - [18/Nov/2019 19:51:47] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:51:47,983:INFO:127.0.0.1 - - [18/Nov/2019 19:51:47] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:52:54,946:DEBUG:The alarm time is:None
+2019-11-18 19:52:54,958:INFO:127.0.0.1 - - [18/Nov/2019 19:52:54] "GET / HTTP/1.1" 500 -
+2019-11-18 19:52:55,002:INFO:127.0.0.1 - - [18/Nov/2019 19:52:55] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:52:55,004:INFO:127.0.0.1 - - [18/Nov/2019 19:52:55] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:52:55,005:INFO:127.0.0.1 - - [18/Nov/2019 19:52:55] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:52:55,142:INFO:127.0.0.1 - - [18/Nov/2019 19:52:55] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:52:55,161:INFO:127.0.0.1 - - [18/Nov/2019 19:52:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:52:55,209:INFO:127.0.0.1 - - [18/Nov/2019 19:52:55] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2019-11-18 19:53:10,139:DEBUG:The alarm time is:None
+2019-11-18 19:53:10,146:INFO:127.0.0.1 - - [18/Nov/2019 19:53:10] "GET / HTTP/1.1" 500 -
+2019-11-18 19:53:10,170:INFO:127.0.0.1 - - [18/Nov/2019 19:53:10] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2019-11-18 19:53:10,171:INFO:127.0.0.1 - - [18/Nov/2019 19:53:10] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2019-11-18 19:53:10,172:INFO:127.0.0.1 - - [18/Nov/2019 19:53:10] "GET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1" 200 -
+2019-11-18 19:53:10,216:INFO:127.0.0.1 - - [18/Nov/2019 19:53:10] "GET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1" 200 -
+2019-11-18 19:53:10,228:INFO: * Detected change in '/Users/miti/Documents/EXETER/Programming/Coursework 2/flask test 4.py', reloading
+2019-11-18 19:54:41,926:DEBUG:The alarm time is:None
+2019-11-18 19:54:41,932:INFO:127.0.0.1 - - [18/Nov/2019 19:54:41] "GET / HTTP/1.1" 200 -
+2019-11-18 19:54:51,931:DEBUG:The alarm time is:2019-12-12T12:12
+2019-11-18 19:54:51,937:DEBUG:The ecpoch time is:1576152720.0
+2019-11-18 19:54:51,937:DEBUG:The courrent time is1574106891.9367192
+2019-11-18 19:54:51,937:DEBUG:The created delay is2045828.0632808208
+2019-11-18 19:54:51,937:DEBUG:The alarms is set for next day
+2019-11-18 19:54:51,937:INFO:127.0.0.1 - - [18/Nov/2019 19:54:51] "GET /?alarm=2019-12-12T12%3A12&name=caca HTTP/1.1" 200 -
+2019-11-18 19:54:53,841:INFO:127.0.0.1 - - [18/Nov/2019 19:54:53] "GET /alarms HTTP/1.1" 200 -
+2019-11-18 19:55:11,815:DEBUG:The alarm time is:None
+2019-11-18 19:55:11,818:INFO:127.0.0.1 - - [18/Nov/2019 19:55:11] "GET / HTTP/1.1" 200 -
+2019-11-18 20:05:55,237:DEBUG:The alarm time is:None
+2019-11-18 20:05:55,244:INFO:127.0.0.1 - - [18/Nov/2019 20:05:55] "GET / HTTP/1.1" 200 -
+2019-11-18 20:06:10,454:DEBUG:The alarm time is:None
+2019-11-18 20:06:10,459:INFO:127.0.0.1 - - [18/Nov/2019 20:06:10] "GET / HTTP/1.1" 200 -
+2019-11-18 20:06:11,822:DEBUG:The alarm time is:None
+2019-11-18 20:06:11,823:INFO:127.0.0.1 - - [18/Nov/2019 20:06:11] "GET / HTTP/1.1" 200 -
+2019-11-18 20:06:26,891:DEBUG:The alarm time is:None
+2019-11-18 20:06:26,892:INFO:127.0.0.1 - - [18/Nov/2019 20:06:26] "GET / HTTP/1.1" 200 -
+2019-11-18 20:10:20,788:DEBUG:The alarm time is:None
+2019-11-18 20:10:20,795:INFO:127.0.0.1 - - [18/Nov/2019 20:10:20] "GET / HTTP/1.1" 200 -
+2019-11-18 20:10:36,508:DEBUG:The alarm time is:None
+2019-11-18 20:10:36,509:INFO:127.0.0.1 - - [18/Nov/2019 20:10:36] "GET / HTTP/1.1" 200 -
+2019-11-18 20:10:51,585:DEBUG:The alarm time is:None
+2019-11-18 20:10:51,587:INFO:127.0.0.1 - - [18/Nov/2019 20:10:51] "GET / HTTP/1.1" 200 -
+2019-11-18 20:11:06,798:DEBUG:The alarm time is:None
+2019-11-18 20:11:06,799:INFO:127.0.0.1 - - [18/Nov/2019 20:11:06] "GET / HTTP/1.1" 200 -
+2019-11-18 20:11:22,924:DEBUG:The alarm time is:None
+2019-11-18 20:11:22,925:INFO:127.0.0.1 - - [18/Nov/2019 20:11:22] "GET / HTTP/1.1" 200 -
+2019-11-18 20:11:39,080:DEBUG:The alarm time is:None
+2019-11-18 20:11:39,081:INFO:127.0.0.1 - - [18/Nov/2019 20:11:39] "GET / HTTP/1.1" 200 -
+2019-11-18 20:11:54,772:DEBUG:The alarm time is:None
+2019-11-18 20:11:54,783:INFO:127.0.0.1 - - [18/Nov/2019 20:11:54] "GET / HTTP/1.1" 200 -
+2019-11-18 20:12:10,630:DEBUG:The alarm time is:None
+2019-11-18 20:12:10,631:INFO:127.0.0.1 - - [18/Nov/2019 20:12:10] "GET / HTTP/1.1" 200 -
+2019-11-18 20:12:27,096:DEBUG:The alarm time is:None
+2019-11-18 20:12:27,097:INFO:127.0.0.1 - - [18/Nov/2019 20:12:27] "GET / HTTP/1.1" 200 -
+2019-11-18 20:12:42,886:DEBUG:The alarm time is:None
+2019-11-18 20:12:42,887:INFO:127.0.0.1 - - [18/Nov/2019 20:12:42] "GET / HTTP/1.1" 200 -
+2019-11-18 20:12:58,960:DEBUG:The alarm time is:None
+2019-11-18 20:12:58,961:INFO:127.0.0.1 - - [18/Nov/2019 20:12:58] "GET / HTTP/1.1" 200 -
+2019-11-18 20:13:14,759:DEBUG:The alarm time is:None
+2019-11-18 20:13:14,760:INFO:127.0.0.1 - - [18/Nov/2019 20:13:14] "GET / HTTP/1.1" 200 -
+2019-11-18 20:13:30,831:DEBUG:The alarm time is:None
+2019-11-18 20:13:30,832:INFO:127.0.0.1 - - [18/Nov/2019 20:13:30] "GET / HTTP/1.1" 200 -
+2019-11-18 20:13:46,943:DEBUG:The alarm time is:None
+2019-11-18 20:13:46,944:INFO:127.0.0.1 - - [18/Nov/2019 20:13:46] "GET / HTTP/1.1" 200 -
+2019-11-18 20:14:02,913:DEBUG:The alarm time is:None
+2019-11-18 20:14:02,913:INFO:127.0.0.1 - - [18/Nov/2019 20:14:02] "GET / HTTP/1.1" 200 -
+2019-11-18 20:14:18,929:DEBUG:The alarm time is:None
+2019-11-18 20:14:18,930:INFO:127.0.0.1 - - [18/Nov/2019 20:14:18] "GET / HTTP/1.1" 200 -
+2019-11-18 20:14:34,868:DEBUG:The alarm time is:None
+2019-11-18 20:14:34,869:INFO:127.0.0.1 - - [18/Nov/2019 20:14:34] "GET / HTTP/1.1" 200 -
+2019-11-18 20:14:50,622:DEBUG:The alarm time is:None
+2019-11-18 20:14:50,623:INFO:127.0.0.1 - - [18/Nov/2019 20:14:50] "GET / HTTP/1.1" 200 -
+2019-11-18 20:15:06,943:DEBUG:The alarm time is:None
+2019-11-18 20:15:06,944:INFO:127.0.0.1 - - [18/Nov/2019 20:15:06] "GET / HTTP/1.1" 200 -
+2019-11-18 20:15:22,622:DEBUG:The alarm time is:None
+2019-11-18 20:15:22,622:INFO:127.0.0.1 - - [18/Nov/2019 20:15:22] "GET / HTTP/1.1" 200 -
+2019-11-18 21:59:48,181:DEBUG:The alarm time is:None
+2019-11-18 21:59:48,188:INFO:127.0.0.1 - - [18/Nov/2019 21:59:48] "GET / HTTP/1.1" 200 -
+2019-11-19 09:53:40,596:DEBUG:The alarm time is:None
+2019-11-19 09:53:40,609:INFO:127.0.0.1 - - [19/Nov/2019 09:53:40] "GET / HTTP/1.1" 200 -
+2019-11-19 09:53:40,953:INFO:127.0.0.1 - - [19/Nov/2019 09:53:40] "GET /favicon.ico HTTP/1.1" 404 -
+2019-11-19 09:53:50,135:DEBUG:Starting new HTTPS connection (1): newsapi.org:443
+2019-11-19 09:53:50,569:DEBUG:https://newsapi.org:443 "GET /v1/articles?source=bbc-news&sortBy=top&apiKey=4dbc17e007ab436fb66416009dfb59a8 HTTP/1.1" 200 4031
+2019-11-19 09:53:50,579:INFO:127.0.0.1 - - [19/Nov/2019 09:53:50] "GET /calendar HTTP/1.1" 200 -
+2019-11-19 09:53:58,607:DEBUG:The alarm time is:None
+2019-11-19 09:53:58,609:INFO:127.0.0.1 - - [19/Nov/2019 09:53:58] "GET / HTTP/1.1" 200 -
+2019-11-19 09:54:01,891:INFO:127.0.0.1 - - [19/Nov/2019 09:54:01] "GET /alarms HTTP/1.1" 200 -
+2019-11-19 09:54:28,450:INFO:127.0.0.1 - - [19/Nov/2019 09:54:28] "GET /alarms HTTP/1.1" 200 -

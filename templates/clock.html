@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<head>
+
+<meta http-equiv="refresh" content="15;url='/'">
+</head>
+<center>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="utf-8">
+    <title>Alarm Clock</title>
+</head>
+<h1> <u>Smart Alarm Clock</u> </h1>
+<br>
+<p1>Input the date for your alarm(s)</p1>
+</br>
+<form action="/" method="get">
+<input type="datetime-local" name="alarm">
+<input name="name">
+<input type="submit">
+<!--<input type=”button” value=”cancel”>!-->
+</form>
+<input type = "checkbox"
+                 id = "checkbox"
+                 value = "1" />
+ <label for = "checkbox">Repeat Dayly</label>
+
+<script>
+function startTime() {
+  var today = new Date();
+  var h = today.getHours();
+  var m = today.getMinutes();
+  var s = today.getSeconds();
+  m = checkTime(m);
+  s = checkTime(s);
+  document.getElementById('txt').innerHTML =
+  h + ":" + m + ":" + s;
+  var t = setTimeout(startTime, 500);
+}
+function checkTime(i) {
+  if (i < 10) {i = "0" + i};
+  return i;
+}
+</script>
+
+</br>
+<p1><a href="http://127.0.0.1:5000/calendar">View Calendar, Weather and News</a></p1>
+<br>
+</br>
+<p1><a href="http://127.0.0.1:5000/alarms">See next alarms</a></p1>
+<h2>Actual Time </h2>
+<body onload="startTime()">
+<div id="txt"></div>
+<p1><a href="https://www.timeanddate.com/worldclock/">Worldwide Clock</a></p1>
+</body>
+</center>
+
+</html>
+
